@@ -3,6 +3,7 @@
 
 The w3school provides database with the existing prefilled tables, for example Customers, Orders,
 Products etc.
+
 You can easily use this resource with contain already populated tables. Be free to modify anything, after
 refresh the state of tables will remain.
 https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
